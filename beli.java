@@ -4,7 +4,7 @@
  */
 package databasemenu.stok;
 
-import databasemenu.menu;
+import databasemenu.menu;anjaiii
 import hai.Konektor;
 import hai.NewJFrame;
 import java.awt.Color;
